@@ -51,7 +51,7 @@ public class DagDevelopment {
         dagdata.add(new String[] { "myprotein", "awin", "2021-06-21T00:00:00.000Z" });
         dagdata.add(new String[] { "viator", "awin", "2021-06-21T00:00:00.000Z" });*/
         
- //      dagdata.add(new String[] { "pedometersusa", "scraper", "2021-12-07T00:00:00.000Z" });
+
  //      dagdata.add(new String[] { "eugenetoyandhobby", "scraper", "2021-12-07T00:00:00.000Z" });
  //      dagdata.add(new String[] { "pedometersusa", "scraper", "2021-12-07T00:00:00.000Z" });
  //      dagdata.add(new String[] { "portableone", "scraper", "2021-12-07T00:00:00.000Z" });
